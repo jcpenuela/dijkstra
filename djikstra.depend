@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1383470193 source:/home/jcpenuela/Dropbox/Coursera/C++/week2/codeblocks/djikstra/main.cpp
+	<iostream>
+	<vector>
+	<graph.h>
+	<priorityqueue.h>
+	<queue>
+
+1383471590 /home/jcpenuela/Dropbox/Coursera/C++/week2/codeblocks/djikstra/include/graph.h
+
+1383468941 source:/home/jcpenuela/Dropbox/Coursera/C++/week2/codeblocks/djikstra/src/graph.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<graph.h>
+
+1383470347 source:/home/jcpenuela/Dropbox/Coursera/C++/week2/codeblocks/djikstra/src/priorityqueue.cpp
+	<priorityqueue.h>
+
+1383423215 /home/jcpenuela/Dropbox/Coursera/C++/week2/codeblocks/djikstra/include/priorityqueue.h
+	<vector>
+
